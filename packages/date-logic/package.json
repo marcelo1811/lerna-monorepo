@@ -13,5 +13,6 @@
   "publishConfig": {
     "@marcelo1811:registry": "https://npm.pkg.github.com/marcelo1811"
   },
-  "conventionalCommits": true
+  "conventionalCommits": true,
+  "gitHead": "8effdf069cae7d524fa55497755b5ec792641ead"
 }

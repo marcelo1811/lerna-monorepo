@@ -1,5 +1,5 @@
 {
-  "name": "date-renderer",
+  "name": "@marcelo1811/date-logic",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "@marcelo1811/date-logic": "^1.1.0"
-  }
+  },
+  "repository": "https://github.com/marcelo1811/lerna-monorepo",
+  "publishConfig": {
+    "@marcelo1811:registry": "https://npm.pkg.github.com/marcelo1811"
+  },
+  "conventionalCommits": true,
+  "gitHead": "8effdf069cae7d524fa55497755b5ec792641ead"
 }
