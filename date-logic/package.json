@@ -1,6 +1,6 @@
 {
   "name": "@marcelo1811/date-logic",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "license": "ISC",
   "repository": "https://github.com/marcelo1811/lerna-monorepo",
   "publishConfig": {
-    "@marcelo1811/registry": "https://npm.pkg.github.com/marcelo1811"
-  }
+    "@marcelo1811:registry": "https://npm.pkg.github.com/marcelo1811"
+  },
+  "conventionalCommits": true
 }
