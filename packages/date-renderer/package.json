@@ -1,6 +1,6 @@
 {
   "name": "date-renderer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@marcelo1811/date-logic": "^1.0.0"
+    "@marcelo1811/date-logic": "^1.0.1"
   }
 }
